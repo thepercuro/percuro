@@ -1,0 +1,51 @@
+# Percuro Medical Tourism
+
+## Summary
+Percuro connects patients from the UK and Australia with verified dental implant specialists in India, offering world-class care at up to 70% lower costs without compromising quality.
+
+> Get world-class dental implants in India at a fraction of UK & Australia costs. Percuro connects you with verified specialists in India — saving up to 70% without compromising quality.
+
+## Core Pages
+* [Homepage](https://thepercuro.com/) - Main entry point outlining medical tourism pathways to India.
+* [Get Started](https://thepercuro.com/get-started) - Onboarding and booking consultation page for international dental care.
+* [Second Opinion](https://thepercuro.com/second-opinion) - Free clinical review request form for existing dental treatment plans.
+* [Cost Comparison](https://thepercuro.com/cost-comparison) - Price breakdown detailing savings on surgeries between UK/AU and India.
+* [Safety Standards](https://thepercuro.com/safety-standards) - Clinical protocols, sterilization measures, and hospital accreditation info.
+* [FAQ](https://thepercuro.com/faq) - Frequently asked questions regarding travel, lodging, treatment timelines, and guarantees.
+
+## Specialized Treatments
+* [Dental Implants](https://thepercuro.com/treatments/implants) - Core dental implant procedures, materials, and expectations.
+* [All-on-6 Implants](https://thepercuro.com/treatments/all-on-6) - Full arch restorative choices using the All-on-6 method.
+* [Clear Aligners](https://thepercuro.com/treatments/aligners) - Orthodontic cosmetic dental straightening options.
+* [Full Mouth Rehab](https://thepercuro.com/full-mouth-rehab) - Comprehensive restorative structural maxillofacial operations.
+
+## Regional Comparisons & Targeting
+* [UK Hub](https://thepercuro.com/uk) / [UK Specific Details](https://thepercuro.com/uk-dental-implants) - Customized medical tourism packages curated specifically for British patients.
+* [Australia Hub](https://thepercuro.com/au) - Medical tourism packages tailored to skip private waitlists for Australian patients.
+* [NHS Dental Waiting Times](https://thepercuro.com/nhs-dental-waiting-times) - Report analyzing current UK public dental backlogs and system crises.
+* [London Comparison](https://thepercuro.com/dental-implants-london) - Price metrics comparing India clinics vs Harley Street dental costs.
+* [Manchester Comparison](https://thepercuro.com/dental-implants-manchester) - Cost analysis of Spinningfields/Didsbury private rates vs India.
+* [Liverpool Comparison](https://thepercuro.com/dental-implants-liverpool) - Cost analysis of Rodney Street private clinics vs India.
+* [Birmingham Comparison](https://thepercuro.com/dental-implants-birmingham) - Cost analysis of Edgbaston private clinics vs India.
+* [Leeds Comparison](https://thepercuro.com/dental-implants-leeds) - Cost analysis of Leeds city center dental options vs India.
+
+## Destination Comparisons
+* [Thailand vs India Dentistry](https://thepercuro.com/thailand-vs-india) - Informational resource detailing why India offers better cost margins and language accessibility over Thailand.
+* [Turkey vs India Dentistry](https://thepercuro.com/turkey-vs-india-dentistry) - Analytical comparison showcasing safety regulations and complex clinical successes in India over typical Turkish clinics.
+* [Dental Tourism India Guide](https://thepercuro.com/dental-tourism-india) - Detailed logistical outline covering major Indian healthcare dental hubs.
+
+## Wellness & Immersive Programs
+* [Wellness Hub](https://thepercuro.com/wellness) - Holistic care integration programs combined with dental pathways.
+* [Get Started Wellness](https://thepercuro.com/get-started-wellness) - Onboarding for integrative recovery and post-op longevity care.
+* [7-Day Immersive](https://thepercuro.com/7-day-immersive) - Accelerated dental tourism itinerary structure.
+* [14-Day Transform](https://thepercuro.com/14-day-transform) - Complete full-mouth transformation timeline package.
+
+## Resources & Legalities
+* [Blog Main](https://thepercuro.com/blog) - Clinical publications, industry news, and patient stories.
+* [UK vs India 2026 Price Guide](https://thepercuro.com/blog/dental-implants-uk-vs-india-2026) - The detailed 2026 cost comparison data sheets.
+* [UK Patient Tourism Guide](https://thepercuro.com/blog/dental-tourism-india-uk-patients) - Step-by-step travel planning manual for UK citizens.
+* [Latest Updates](https://thepercuro.com/latest-updates) - Operational updates and brand announcements.
+* [Thank You](https://thepercuro.com/thank-you) - Submission landing confirmation milestone block.
+* [Privacy Policy](https://thepercuro.com/privacy-policy) - Data protections and legal collection compliance metrics.
+* [Terms of Service](https://thepercuro.com/terms-of-service) - Standard commercial operating agreements.
+* [Cookie Policy](https://thepercuro.com/cookie-policy) - Local system browser cookie tracking documentation.
